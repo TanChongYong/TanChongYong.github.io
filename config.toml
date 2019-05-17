@@ -18,7 +18,7 @@ theme = "hugo-lodi-theme"
 [params.hero]
     enable = true
     avatar = "cy.png"
-    subtitle = "Hi! I'm Chong Yong, a Software Developer from Singapore."
+    subtitle = "Hiiii! I'm Chong Yong, a Software Developer from Singapore."
     hero_right = ["**Currently doing development work for Standard Chartered Bank. Previously worked as a software developer intern in India at Extentia, Pune.**",
     "I am a firm believer of self-improvement and enjoys having conversations with others.
     Other than tech, I am interested in the startup space and will definitely venture out to be an entrepreneur sometime in the future.
