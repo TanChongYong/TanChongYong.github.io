@@ -21,7 +21,7 @@ theme = "hugo-lodi-theme"
 
     # logo image (204x204px), place this in the static/img folder
     # this appears on the top left of the navigation
-    logo = "logo.png"
+    logo = "penguin logo.png"
 
     # Email
     # email = ""
@@ -73,7 +73,7 @@ theme = "hugo-lodi-theme"
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
+    title = "Personal Projects"
     subtitle = "Selected Works"
 
 [params.footer]
