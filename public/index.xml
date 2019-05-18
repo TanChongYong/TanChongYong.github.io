@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio Website</title>
+    <link>/</link>
+    <description>Recent content on My Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cope | Alexis Collado</title>
+      <link>/cope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cope/</guid>
+      <description>Search Engine Optimization (SEO) SEO has always been an evolving puzzle to solve, and I had great joy in constant monitoring and optimizing the site for ranking.
+I am always striving to learn new things, and I believe that many things are achievable if you are willing to put in the time and effort to learn. Although it took me sometime to rank the site, the self-process of discovery and experimenting is something which I enjoyed doing very much.</description>
+    </item>
+    
+    <item>
+      <title>360 Pro | Alexis Collado</title>
+      <link>/360pro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/360pro/</guid>
+      <description>Our Approach Our initial approach was to simply break down each part of the html syntax into digestible bits. While it did work in conveying the concepts to students, we were unable to keep their attention for long! We decided to pivot to include items that the students were able to relate to more.
+The Pivot After pivoting, we decided to include Pokemon to teach the students. The reception was much better, and students love that they were able to have full control of their site with their favorite Pokemon characters.</description>
+    </item>
+    
+    <item>
+      <title>TEDxADMU | Alexis Collado</title>
+      <link>/tedx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tedx/</guid>
+      <description>Canton Fair I flew over to GuangZhou for the annual Canton Fair, where many suppliers would gather to display their products. Although the minimum order quantity (MOQ) is too high, I still learnt a lot by talking to different vendors to get data on the entire distribution process and OEM model.
+Next Steps I am currently still working on Budget Penguin during my free time, and I am excited at the new things that I will be learning about digital marketing.</description>
+    </item>
+    
+  </channel>
+</rss>
