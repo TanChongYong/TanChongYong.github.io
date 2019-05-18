@@ -8,20 +8,23 @@ theme = "hugo-lodi-theme"
     description = "Portfolio of Tan Chong Yong, Software Developer"
     description_photo = "portfolio.jpg"
     favicon = "CY logo.jpg"
-    logo = "penguin logo.png"
+    logo = "CY logo.jpg"
     email = "tanchongyong92@gmail.com"
     linkedin = "https://www.linkedin.com/in/tanchongyong/"
 
 [params.nav]
-    enable = true
+    enable = false
 
 [params.hero]
     enable = true
     avatar = "cy.png"
-    subtitle = "Hi! I'm Chong Yong, a Software Developer from Singapore."
-    hero_right = ["**Currently doing development work for Standard Chartered Bank. Previously worked as a software developer intern in India at Extentia, Pune.**", "I am a firm believer of self-improvement and enjoys having conversations with others. Other than tech, I am interested in the startup space and will definitely venture out to be an entrepreneur sometime in the future. Whenever I am not geeking around, I would be out at the gym or having conversations with my friends.",
-    "Although I am fairly comfortable with programming, my true passion lies in bridging the gap between business and IT. I am currently seeking for roles that would put me in between tech and business.  ",
-     "I graduated from Singapore Management University in May 2018 with a Bachelor Degree in Information Systems."]
+    subtitle = "Hiiii! I'm Chong Yong, a Software Developer from Singapore."
+    hero_right = ["**Currently doing development work for Standard Chartered Bank. Previously worked as a software developer intern in India at Extentia, Pune.**",
+    "I am a firm believer of self-improvement and enjoys having conversations with others.
+    Other than tech, I am interested in the startup space and will definitely venture out to be an entrepreneur sometime in the future.
+    Whenever I am not geeking around, I would be out at the gym or having meaningful/meaningless conversations with my friends.",
+     "I graduated from Singapore Management University in May 2018 with a Bachelor Degree in Information Systems.",
+     "Don't be shy! Feel free to drop me an email or drop me a message on Linkedin"]
     resume = "Tan Chong Yong_Resume.pdf"
 
 [params.process]
@@ -30,9 +33,9 @@ theme = "hugo-lodi-theme"
     subtitle = "Full Process Design"
 
 [params.case_studies]
-    enable = true
-    title = "Personal Projects"
-    subtitle = "Highlights of some of my personal projects"
+    enable = false
+    title = "Case Studies"
+    subtitle = "Selected Works"
 
 [params.footer]
     enable = false
